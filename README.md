@@ -17,5 +17,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prashanthg300&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Prashanthg300)  
-
