@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Prashanth
 #### Software Developer
-![Software Developer](https://drive.google.com/file/d/1GlX8i6r5lRvVLZM_rfnJJd35F_5IC3MT/view)
+![Software Developer](https://raw.githubusercontent.com/Prashanthg300/Prashanthg300/main/github-header-image.png)
 
 🚀 As a Full Stack Developer, I get to blend creativity with technology to craft amazing web experiences.
 
