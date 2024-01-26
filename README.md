@@ -6,11 +6,11 @@ I'm a self-taught passionate Full Stack Developer from India
 
 💻 My toolkit includes:
 
-Frontend magic with HTML, CSS, and JavaScript (especially loving React.js and Vue.js)
-Backend sorcery with Node.js, Express.js, and Python (Django, Flask)
-Databases like MongoDB, PostgreSQL, and MySQL
-DevOps spells with Docker, Kubernetes, and cloud platforms like AWS and Azure
-Git and VS Code are my trusty sidekicks
+- Frontend magic with HTML, CSS, and JavaScript (especially loving React.js and Vue.js)
+- Backend sorcery with Node.js, Express.js, and Python (Django, Flask)
+- Databases like MongoDB, PostgreSQL, and MySQL
+- DevOps spells with Docker, Kubernetes, and cloud platforms like AWS and Azure
+- Git and VS Code are my trusty sidekicks
 
 🔍 Currently, I'm diving deep into new tech and refining my skills to create even cooler stuff.
 
