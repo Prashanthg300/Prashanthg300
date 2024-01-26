@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Prashanth
-#### Software Developer
-![Software Developer](https://raw.githubusercontent.com/Prashanthg300/Prashanthg300/main/github-header-image.png)
+###👋 Hey there! I'm Prashanth, and I love building things on the web!
+#### FullStack Developer
+![Full Stack Developer](https://raw.githubusercontent.com/Prashanthg300/Prashanthg300/main/github-header-image.png)
 
-🚀 As a Full Stack Developer, I get to blend creativity with technology to craft amazing web experiences.
+I'm a self-taught passionate Full Stack Developer from India
 
 💻 My toolkit includes:
 
@@ -15,7 +15,7 @@ Git, JIRA, and VS Code are my trusty sidekicks
 
 🔍 Currently, I'm diving deep into new tech and refining my skills to create even cooler stuff.
 
-📫 Let's chat! Shoot me an email at [Your Email] or connect with me on LinkedIn [Your LinkedIn Profile]. I'm always up for a good tech talk or collaboration!
+📫 Let's chat! Shoot me an email at prashanthg300@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/prashanth-gadde/. I'm always up for a good tech talk or collaboration!
 
 🌟 Oh, and if you have a crazy idea you want to bring to life, count me in!
 
