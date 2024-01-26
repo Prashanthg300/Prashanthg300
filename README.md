@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Prashanth
 #### Software Developer
-![Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Developer](https://drive.google.com/file/d/1GlX8i6r5lRvVLZM_rfnJJd35F_5IC3MT/view)
 
 🚀 As a Full Stack Developer, I get to blend creativity with technology to craft amazing web experiences.
 
