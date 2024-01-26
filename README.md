@@ -15,7 +15,7 @@ Git, JIRA, and VS Code are my trusty sidekicks
 
 🔍 Currently, I'm diving deep into new tech and refining my skills to create even cooler stuff.
 
-📫 Let's chat! Shoot me an email at prashanthg300@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/prashanth-gadde/. I'm always up for a good tech talk or collaboration!
+📫 Let's chat! Shoot me an email at prashanthg300@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/prashanth-gadde/). I'm always up for a good tech talk or collaboration!
 
 🌟 Oh, and if you have a crazy idea you want to bring to life, count me in!
 
